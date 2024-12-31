@@ -1,7 +1,7 @@
 # projeto com README
 um projeto de teste com um arquivo readme🐱‍🏍
 
-<img src="dicas-gif-email-1200.webp">
+<img src="https://selzy.com/br/blog/wp-content/uploads/2023/04/dicas-gif-email-1200.gif">
 
 
 ## Representação da imagem
