@@ -27,7 +27,7 @@ git clone <url>
 cd repositorio-com-readme
 ```
 
-zzz
+
 ```
-test pull
+🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍TESTE PULL -> 🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍🐱‍🏍
 ```
